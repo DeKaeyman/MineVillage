@@ -1,0 +1,11 @@
+{
+  "music.mijnnummer": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "glowingtech:music/mijnnummer",
+        "stream": true
+      }
+    ]
+  }
+}
